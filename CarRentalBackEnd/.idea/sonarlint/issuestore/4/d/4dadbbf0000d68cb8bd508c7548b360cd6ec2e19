@@ -1,0 +1,17 @@
+
+b
+java:S1170"!Make this final field static too.(ûÎ‹ÃúÿÿÿÿJ$0497444c-9677-43c2-a365-579a52017448
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$2a641b41-dc09-43d6-a2c3-f6849363c73d
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$f69cc651-0fd9-4048-8ef4-6a1b9abf891c
+…
+java:S1128"DRemove this unused import 'org.springframework.jdbc.core.RowMapper'.(¦¬ÀÙùÿÿÿÿJ$1391ccd9-811b-4e17-830a-f1890fc2b618
+j
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚwJ$58de4ae5-d3cf-407b-8187-e2a7e0ae14ca
+n
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸJ$83919055-e7c3-40f0-a503-d73dc747ec55
+l
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿJ$494e41e3-373f-4e3c-98b5-7111e1dd646d
+k
+java:S1068"/Remove this unused "selectQuery" private field.(°Ãþ­J$55f8f39d-377b-461c-b6e3-821af1621213
